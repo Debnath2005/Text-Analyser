@@ -5,9 +5,8 @@ export default function About() {
     <div>
       <h3>
         I am final year student of computer science and engineering. I completed
-        my Diploma in computer science and technology from Acharya Prafulla
-        Chandra Ray Polytechnic, Kolkata. Data structure and algorithm is my
-        strength, I have knowledge about Java and JavaScript and React.js.
+        my B.E in computer science and technology from University Institute of Technology,Burdwan. 
+        Data structure and algorithm is my strength, I have knowledge about C++ and JavaScript and React.js.
       </h3>
     </div>
   );
